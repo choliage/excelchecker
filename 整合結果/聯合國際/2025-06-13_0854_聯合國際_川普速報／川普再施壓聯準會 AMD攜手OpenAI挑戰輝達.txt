@@ -1,0 +1,28 @@
+標題: 川普速報／川普再施壓聯準會 AMD攜手OpenAI挑戰輝達
+連結: https://vip.udn.com/vip/story/122714/8804064?from=udn-category
+
+速報觀察：
+
+•川普再次施壓聯準會 AMD攜手OpenAI挑戰輝達霸主地位
+
+川普對聯準會施壓的語氣升高，儘管宣稱不會開除聯準會主席鮑爾，卻暗示可能「強制採取行動」，再度引發市場對貨幣政策獨立性的疑慮。與此同時，輝達執行長黃仁勳警告，若美國持續對中限制出口，將讓華為趁勢擴張，反助其壟斷中國AI生態。另一邊，AMD與OpenAI宣布合作推出新一代AI晶片，挑戰輝達主導地位，也顯示美國AI技術生態的多元競爭開始升溫。在聯準會、科技戰與供應鏈重組的三重議題交會之下，市場正觀察這些政策與產業訊號是否將進一步重塑全球格局。
+
+川普又施壓聯準會降息 但不開除鮑爾
+
+原文連結：Trump says he won't fire Fed's Powell but 'may have to force something' on rates
+
+摘要：川普表示不打算立即開除聯準會主席鮑爾，但對其拒絕降息大表不滿，稱自己可能會「被迫採取一些措施」。他批評利率過高，並暗示可能以非常規手段施壓，追求貨幣政策轉向。（Reuters／台灣時間6月13日03：55）
+
+黃仁勳警告：美限出口恐助華為擴張
+
+原文連結：Huawei 'has got China covered' if the U.S. doesn't participate, Nvidia CEO tells CNBC
+
+摘要：輝達CEO黃仁勳指出，美國在AI半導體領域領先中國一代，但若持續限制對華出口，將「讓華為壯大」，反而助長它掌控中國市場。他強調全球AI開發應以美國技術為基礎，不應走中國體系路線。（CNBC／台灣時間6月13日01：30）
+
+AMD展望開放AI生態 搶攻晶片市場
+
+原文連結：AMD reveals next-generation AI chips with OpenAI CEO Sam Altman
+
+摘要：AMD發表下一代Instinct MI400 AI晶片與Helios機架系統，預定2026年量產。OpenAI執行長Sam Altman出席並證實公司將採用該晶片。該系統支持大規模AI集群運行，主打效率與開放架構，直接挑戰輝達的市場地位。（CNBC／台灣時間6月13日07：50）
+
+※ 歡迎用「轉貼」或「分享」的方式轉傳文章連結；未經授權，請勿複製轉貼文章內容

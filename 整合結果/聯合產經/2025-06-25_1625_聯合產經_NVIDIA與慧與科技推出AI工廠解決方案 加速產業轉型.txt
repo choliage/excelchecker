@@ -1,0 +1,12 @@
+標題: NVIDIA與慧與科技推出AI工廠解決方案 加速產業轉型
+連結: https://udn.com/news/story/7240/8830706?from=udn-catelistnews_ch2
+
+為加速各行各業採用人工智慧（AI），輝達（NVIDIA）慧與科技（HPE） 今日於美國拉斯維加斯的HPE Discover 大會上推出全新AI工廠解決方案。
+
+這次推出的新產品涵蓋從模組化AI工廠基礎設施、慧與科技的AI就緒 RTX PRO 伺服器（HPE ProLiant Compute DL380a Gen12），到新一代慧與科技一站式 AI 平台HPE Private Cloud AI。其目標是為企業提供一個架構，以建立並擴展生成式 AI、代理型 AI與工業 AI。
+
+此產品組合結合了 NVIDIA Blackwell加速運算平台、NVIDIA Spectrum-X 乙太網路與 NVIDIA BlueField-3網路技術、NVIDIA AI Enterprise軟體，以及慧與科技全方位的伺服器、儲存、服務與軟體產品。新加入的項目包括：HPE OpsRamp 軟體這款經過驗證、適用於 NVIDIA 企業級 AI 工廠（NVIDIA Enterprise AI Factory）的可觀測性解決方案；以及用於 AI 協調管理的 HPE Morpheus 企業級軟體。最終呈現出一套預先整合、模組化的基礎設施堆疊，有助於團隊更快速地將 AI 導入實際應用。
+
+這項產品組合也包括由慧與科技與 NVIDIA 共同打造的次世代 HPE Private Cloud AI，並已驗證為NVIDIA 企業級 AI 工廠框架的一部分。這款全端、一站式的 AI 工廠解決方案，將提供 HPE ProLiant Compute DL380a Gen12 伺服器全新 NVIDIA RTX PRO 6000 Blackwell 伺服器版 GPU。
+
+這些來自慧與科技的全新 NVIDIA RTX PRO 伺服器提供通用的資料中心平台，支援廣泛的企業級 AI 與工業 AI 應用場景，現已可透過慧與科技下單訂購。HPE Private Cloud AI 也整合了最新的 NVIDIA AI Blueprints，包括針對 AI 代理建立與工作流程設計的 NVIDIA AI-Q Blueprint。
