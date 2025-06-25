@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed  --name excel-vers1.0 main.py
